@@ -2,6 +2,6 @@
 {
     public interface IShapeOperations
     {
-        public float CalculateArea();
+        float CalculateArea();
     }
 }

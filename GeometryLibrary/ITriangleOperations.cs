@@ -2,6 +2,6 @@
 {
     public interface ITriangleOperations
     {
-        public bool IsRightAngled();
+        bool IsRightAngled();
     }
 }
